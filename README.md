@@ -1,5 +1,5 @@
 [![GitHub issues](https://img.shields.io/github/issues/ynncstslv/advent-of-code)](https://github.com/ynncstslv/advent-of-code/issues)
-[![GitHub stars](https://img.shields.io/github/starsynncstslv/advent-of-code)](https://github.com/ynncstslv/advent-of-code/stargazers)
+[![GitHub stars](https://img.shields.io/github/stars/ynncstslv/advent-of-code)](https://github.com/ynncstslv/advent-of-code/stargazers)
 [![GitHub license](https://img.shields.io/github/license/ynncstslv/advent-of-code)](https://github.com/ynncstslv/advent-of-code/blob/main/LICENSE)
 
 # Advent of Code
